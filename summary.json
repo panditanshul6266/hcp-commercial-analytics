@@ -1,0 +1,14 @@
+{
+  "hcps": 240,
+  "pre_rx": 30496,
+  "post_rx": 34421,
+  "alerted": 160,
+  "contacted": 120,
+  "contacted_post_prescribers": 98,
+  "segments": {
+    "Decliner / Stable": 72,
+    "Grower": 112,
+    "New Starter": 19,
+    "Non-Responder": 37
+  }
+}

@@ -1,0 +1,241 @@
+hcp_id,hcp_name,region,specialty,rep,pre_rx,post_rx,competitor_post,alert_count,contacted,segment,lift_pct,competitor_share_pct,priority_score
+6,HCP-006,South,Cardiology,Rep-06,149,110,281,0,0,Decliner / Stable,-26.17,71.87,90
+93,HCP-093,North,Cardiology,Rep-09,137,39,271,0,0,Decliner / Stable,-71.53,87.42,90
+236,HCP-236,West,Endocrinology,Rep-08,200,100,250,1,0,Decliner / Stable,-50.0,71.43,90
+225,HCP-225,North,Cardiology,Rep-09,178,89,239,0,0,Decliner / Stable,-50.0,72.87,90
+12,HCP-012,West,Cardiology,Rep-12,248,235,238,0,0,Decliner / Stable,-5.24,50.32,90
+212,HCP-212,West,Endocrinology,Rep-08,164,99,234,1,0,Decliner / Stable,-39.63,70.27,90
+102,HCP-102,South,Cardiology,Rep-06,237,116,230,0,0,Decliner / Stable,-51.05,66.47,90
+228,HCP-228,West,Cardiology,Rep-12,179,126,230,0,0,Decliner / Stable,-29.61,64.61,90
+75,HCP-075,East,Cardiology,Rep-03,159,38,223,0,0,Decliner / Stable,-76.1,85.44,90
+138,HCP-138,South,Cardiology,Rep-06,11,10,212,0,0,Decliner / Stable,-9.09,95.5,90
+28,HCP-028,West,General Medicine,Rep-04,100,6,211,1,0,Decliner / Stable,-94.0,97.24,90
+171,HCP-171,East,Cardiology,Rep-03,96,68,202,0,0,Decliner / Stable,-29.17,74.81,90
+63,HCP-063,East,Cardiology,Rep-03,200,114,197,0,0,Decliner / Stable,-43.0,63.34,90
+204,HCP-204,West,Cardiology,Rep-12,182,61,192,0,0,Decliner / Stable,-66.48,75.89,90
+180,HCP-180,West,Cardiology,Rep-12,124,77,179,0,0,Decliner / Stable,-37.9,69.92,90
+42,HCP-042,South,Cardiology,Rep-06,261,128,175,0,0,Decliner / Stable,-50.96,57.76,90
+54,HCP-054,South,Cardiology,Rep-06,229,145,175,0,0,Decliner / Stable,-36.68,54.69,90
+177,HCP-177,North,Cardiology,Rep-09,182,130,172,0,0,Decliner / Stable,-28.57,56.95,90
+18,HCP-018,South,Cardiology,Rep-06,196,130,171,0,0,Decliner / Stable,-33.67,56.81,90
+111,HCP-111,East,Cardiology,Rep-03,58,57,170,0,0,Decliner / Stable,-1.72,74.89,90
+9,HCP-009,North,Cardiology,Rep-09,102,18,167,0,0,Decliner / Stable,-82.35,90.27,90
+45,HCP-045,North,Cardiology,Rep-09,169,57,164,0,0,Decliner / Stable,-66.27,74.21,90
+76,HCP-076,West,General Medicine,Rep-04,50,22,160,1,0,Decliner / Stable,-56.0,87.91,90
+219,HCP-219,East,Cardiology,Rep-03,125,54,152,0,0,Decliner / Stable,-56.8,73.79,90
+213,HCP-213,North,Cardiology,Rep-09,145,131,151,0,0,Decliner / Stable,-9.66,53.55,90
+124,HCP-124,West,General Medicine,Rep-04,140,120,136,1,0,Decliner / Stable,-14.29,53.13,90
+160,HCP-160,West,General Medicine,Rep-04,63,51,121,1,0,Decliner / Stable,-19.05,70.35,90
+159,HCP-159,East,Cardiology,Rep-03,122,74,116,0,0,Decliner / Stable,-39.34,61.05,90
+40,HCP-040,West,General Medicine,Rep-04,34,1,81,1,0,Decliner / Stable,-97.06,98.78,90
+94,HCP-094,South,General Medicine,Rep-10,140,44,282,1,1,Decliner / Stable,-68.57,86.5,75
+61,HCP-061,North,General Medicine,Rep-01,112,79,245,1,1,Decliner / Stable,-29.46,75.62,75
+74,HCP-074,South,Endocrinology,Rep-02,215,89,238,1,1,Decliner / Stable,-58.6,72.78,75
+7,HCP-007,East,General Medicine,Rep-07,249,176,237,1,1,Decliner / Stable,-29.32,57.38,75
+29,HCP-029,North,Endocrinology,Rep-05,180,146,229,1,1,Decliner / Stable,-18.89,61.07,75
+175,HCP-175,East,General Medicine,Rep-07,184,83,228,1,1,Decliner / Stable,-54.89,73.31,75
+230,HCP-230,South,Endocrinology,Rep-02,178,82,227,1,1,Decliner / Stable,-53.93,73.46,75
+43,HCP-043,East,General Medicine,Rep-07,182,101,219,1,1,Decliner / Stable,-44.51,68.44,75
+149,HCP-149,North,Endocrinology,Rep-05,178,131,216,1,1,Decliner / Stable,-26.4,62.25,75
+31,HCP-031,East,General Medicine,Rep-07,163,78,212,1,1,Decliner / Stable,-52.15,73.1,75
+194,HCP-194,South,Endocrinology,Rep-02,203,189,208,1,1,Decliner / Stable,-6.9,52.39,75
+103,HCP-103,East,General Medicine,Rep-07,161,69,206,1,1,Decliner / Stable,-57.14,74.91,75
+218,HCP-218,South,Endocrinology,Rep-02,157,139,206,1,1,Decliner / Stable,-11.46,59.71,75
+158,HCP-158,South,Endocrinology,Rep-02,78,75,205,1,1,Decliner / Stable,-3.85,73.21,75
+62,HCP-062,South,Endocrinology,Rep-02,186,146,204,1,1,Decliner / Stable,-21.51,58.29,75
+233,HCP-233,North,Endocrinology,Rep-05,251,170,194,1,1,Decliner / Stable,-32.27,53.3,75
+235,HCP-235,East,General Medicine,Rep-07,210,96,193,1,1,Decliner / Stable,-54.29,66.78,75
+85,HCP-085,North,General Medicine,Rep-01,14,3,190,1,1,Decliner / Stable,-78.57,98.45,75
+142,HCP-142,South,General Medicine,Rep-10,128,100,188,1,1,Decliner / Stable,-21.88,65.28,75
+173,HCP-173,North,Endocrinology,Rep-05,36,26,186,1,1,Decliner / Stable,-27.78,87.74,75
+82,HCP-082,South,General Medicine,Rep-10,166,70,182,1,1,Decliner / Stable,-57.83,72.22,75
+125,HCP-125,North,Endocrinology,Rep-05,142,120,173,1,1,Decliner / Stable,-15.49,59.04,75
+179,HCP-179,East,Endocrinology,Rep-11,134,97,165,1,1,Decliner / Stable,-27.61,62.98,75
+206,HCP-206,South,Endocrinology,Rep-02,153,37,162,1,1,Decliner / Stable,-75.82,81.41,75
+127,HCP-127,East,General Medicine,Rep-07,140,117,156,1,1,Decliner / Stable,-16.43,57.14,75
+151,HCP-151,East,General Medicine,Rep-07,195,63,155,1,1,Decliner / Stable,-67.69,71.1,75
+14,HCP-014,South,Endocrinology,Rep-02,133,125,152,1,1,Decliner / Stable,-6.02,54.87,75
+97,HCP-097,North,General Medicine,Rep-01,140,91,141,1,1,Decliner / Stable,-35.0,60.78,75
+53,HCP-053,North,Endocrinology,Rep-05,55,40,139,1,1,Decliner / Stable,-27.27,77.65,75
+88,HCP-088,West,General Medicine,Rep-04,95,0,265,1,0,Non-Responder,-100.0,100.0,70
+220,HCP-220,West,General Medicine,Rep-04,49,0,264,1,0,Non-Responder,-100.0,100.0,70
+24,HCP-024,West,Cardiology,Rep-12,23,0,255,0,0,Non-Responder,-100.0,100.0,70
+44,HCP-044,West,Endocrinology,Rep-08,62,0,225,1,0,Non-Responder,-100.0,100.0,70
+66,HCP-066,South,Cardiology,Rep-06,234,0,222,0,0,Non-Responder,-100.0,100.0,70
+165,HCP-165,North,Cardiology,Rep-09,132,0,206,0,0,Non-Responder,-100.0,100.0,70
+198,HCP-198,South,Cardiology,Rep-06,182,0,185,0,0,Non-Responder,-100.0,100.0,70
+84,HCP-084,West,Cardiology,Rep-12,18,0,177,0,0,Non-Responder,-100.0,100.0,70
+132,HCP-132,West,Cardiology,Rep-12,58,0,177,0,0,Non-Responder,-100.0,100.0,70
+33,HCP-033,North,Cardiology,Rep-09,84,0,128,0,0,Non-Responder,-100.0,100.0,70
+8,HCP-008,West,Endocrinology,Rep-08,16,0,125,1,0,Non-Responder,-100.0,100.0,70
+176,HCP-176,West,Endocrinology,Rep-08,100,0,124,1,0,Non-Responder,-100.0,100.0,70
+231,HCP-231,East,Cardiology,Rep-03,130,0,114,0,0,Non-Responder,-100.0,100.0,70
+99,HCP-099,East,Cardiology,Rep-03,208,0,113,0,0,Non-Responder,-100.0,100.0,70
+100,HCP-100,West,General Medicine,Rep-04,57,0,81,1,0,Non-Responder,-100.0,100.0,70
+92,HCP-092,West,Endocrinology,Rep-08,100,143,283,1,0,Grower,43.0,66.43,65
+87,HCP-087,East,Cardiology,Rep-03,6,48,274,0,0,Grower,700.0,85.09,65
+39,HCP-039,East,Cardiology,Rep-03,0,54,273,0,0,New Starter,,83.49,65
+108,HCP-108,West,Cardiology,Rep-12,61,170,254,0,0,Grower,178.69,59.91,65
+52,HCP-052,West,General Medicine,Rep-04,0,58,248,1,0,New Starter,,81.05,65
+141,HCP-141,North,Cardiology,Rep-09,118,173,248,0,0,Grower,46.61,58.91,65
+148,HCP-148,West,General Medicine,Rep-04,77,126,235,1,0,Grower,63.64,65.1,65
+232,HCP-232,West,General Medicine,Rep-04,67,79,234,1,0,Grower,17.91,74.76,65
+78,HCP-078,South,Cardiology,Rep-06,0,62,231,0,0,New Starter,,78.84,65
+4,HCP-004,West,General Medicine,Rep-04,31,39,216,1,0,Grower,25.81,84.71,65
+96,HCP-096,West,Cardiology,Rep-12,150,181,215,0,0,Grower,20.67,54.29,65
+237,HCP-237,North,Cardiology,Rep-09,34,179,211,0,0,Grower,426.47,54.1,65
+156,HCP-156,West,Cardiology,Rep-12,0,32,209,0,0,New Starter,,86.72,65
+117,HCP-117,North,Cardiology,Rep-09,0,94,203,0,0,New Starter,,68.35,65
+201,HCP-201,North,Cardiology,Rep-09,101,149,202,0,0,Grower,47.52,57.55,65
+72,HCP-072,West,Cardiology,Rep-12,20,174,196,0,0,Grower,770.0,52.97,65
+196,HCP-196,West,General Medicine,Rep-04,34,61,184,1,0,Grower,79.41,75.1,65
+174,HCP-174,South,Cardiology,Rep-06,38,135,179,0,0,Grower,255.26,57.01,65
+162,HCP-162,South,Cardiology,Rep-06,40,65,177,0,0,Grower,62.5,73.14,65
+195,HCP-195,East,Cardiology,Rep-03,0,27,169,0,0,New Starter,,86.22,65
+207,HCP-207,East,Cardiology,Rep-03,154,164,167,0,0,Grower,6.49,50.45,65
+51,HCP-051,East,Cardiology,Rep-03,9,147,159,0,0,Grower,1533.33,51.96,65
+104,HCP-104,West,Endocrinology,Rep-08,0,133,157,1,0,New Starter,,54.14,65
+128,HCP-128,West,Endocrinology,Rep-08,45,91,148,1,0,Grower,102.22,61.92,65
+208,HCP-208,West,General Medicine,Rep-04,0,18,123,1,0,New Starter,,87.23,65
+150,HCP-150,South,Cardiology,Rep-06,26,98,113,0,0,Grower,276.92,53.55,65
+90,HCP-090,South,Cardiology,Rep-06,238,180,166,0,0,Decliner / Stable,-24.37,47.98,60
+3,HCP-003,East,Cardiology,Rep-03,221,195,159,0,0,Decliner / Stable,-11.76,44.92,60
+200,HCP-200,West,Endocrinology,Rep-08,216,166,156,1,0,Decliner / Stable,-23.15,48.45,60
+164,HCP-164,West,Endocrinology,Rep-08,147,133,130,1,0,Decliner / Stable,-9.52,49.43,60
+192,HCP-192,West,Cardiology,Rep-12,193,174,114,0,0,Decliner / Stable,-9.84,39.58,60
+27,HCP-027,East,Cardiology,Rep-03,143,119,86,0,0,Decliner / Stable,-16.78,41.95,60
+11,HCP-011,East,Endocrinology,Rep-11,143,0,311,1,1,Non-Responder,-100.0,100.0,55
+55,HCP-055,East,General Medicine,Rep-07,41,0,284,1,1,Non-Responder,-100.0,100.0,55
+86,HCP-086,South,Endocrinology,Rep-02,65,0,254,1,1,Non-Responder,-100.0,100.0,55
+146,HCP-146,South,Endocrinology,Rep-02,50,0,240,1,1,Non-Responder,-100.0,100.0,55
+2,HCP-002,South,Endocrinology,Rep-02,9,0,231,1,1,Non-Responder,-100.0,100.0,55
+209,HCP-209,North,Endocrinology,Rep-05,78,0,230,1,1,Non-Responder,-100.0,100.0,55
+193,HCP-193,North,General Medicine,Rep-01,109,0,218,1,1,Non-Responder,-100.0,100.0,55
+77,HCP-077,North,Endocrinology,Rep-05,201,0,211,1,1,Non-Responder,-100.0,100.0,55
+119,HCP-119,East,Endocrinology,Rep-11,35,0,198,1,1,Non-Responder,-100.0,100.0,55
+187,HCP-187,East,General Medicine,Rep-07,264,0,198,1,1,Non-Responder,-100.0,100.0,55
+106,HCP-106,South,General Medicine,Rep-10,28,0,193,1,1,Non-Responder,-100.0,100.0,55
+23,HCP-023,East,Endocrinology,Rep-11,82,0,179,1,1,Non-Responder,-100.0,100.0,55
+154,HCP-154,South,General Medicine,Rep-10,67,0,178,1,1,Non-Responder,-100.0,100.0,55
+89,HCP-089,North,Endocrinology,Rep-05,105,0,171,1,1,Non-Responder,-100.0,100.0,55
+98,HCP-098,South,Endocrinology,Rep-02,70,0,169,1,1,Non-Responder,-100.0,100.0,55
+34,HCP-034,South,General Medicine,Rep-10,81,0,167,1,1,Non-Responder,-100.0,100.0,55
+121,HCP-121,North,General Medicine,Rep-01,191,0,166,1,1,Non-Responder,-100.0,100.0,55
+50,HCP-050,South,Endocrinology,Rep-02,20,0,157,1,1,Non-Responder,-100.0,100.0,55
+110,HCP-110,South,Endocrinology,Rep-02,212,0,153,1,1,Non-Responder,-100.0,100.0,55
+35,HCP-035,East,Endocrinology,Rep-11,6,0,143,1,1,Non-Responder,-100.0,100.0,55
+131,HCP-131,East,Endocrinology,Rep-11,57,0,68,1,1,Non-Responder,-100.0,100.0,55
+181,HCP-181,North,General Medicine,Rep-01,245,258,295,1,1,Grower,5.31,53.35,50
+137,HCP-137,North,Endocrinology,Rep-05,215,255,269,1,1,Grower,18.6,51.34,50
+169,HCP-169,North,General Medicine,Rep-01,0,91,251,1,1,New Starter,,73.39,50
+130,HCP-130,South,General Medicine,Rep-10,0,78,246,1,1,New Starter,,75.93,50
+203,HCP-203,East,Endocrinology,Rep-11,47,158,240,1,1,Grower,236.17,60.3,50
+71,HCP-071,East,Endocrinology,Rep-11,27,116,229,1,1,Grower,329.63,66.38,50
+221,HCP-221,North,Endocrinology,Rep-05,0,141,226,1,1,New Starter,,61.58,50
+25,HCP-025,North,General Medicine,Rep-01,35,52,223,1,1,Grower,48.57,81.09,50
+166,HCP-166,South,General Medicine,Rep-10,122,201,223,1,1,Grower,64.75,52.59,50
+65,HCP-065,North,Endocrinology,Rep-05,0,149,219,1,1,New Starter,,59.51,50
+167,HCP-167,East,Endocrinology,Rep-11,41,64,217,1,1,Grower,56.1,77.22,50
+73,HCP-073,North,General Medicine,Rep-01,180,183,215,1,1,Grower,1.67,54.02,50
+41,HCP-041,North,Endocrinology,Rep-05,91,140,207,1,1,Grower,53.85,59.65,50
+182,HCP-182,South,Endocrinology,Rep-02,0,72,201,1,1,New Starter,,73.63,50
+155,HCP-155,East,Endocrinology,Rep-11,56,150,198,1,1,Grower,167.86,56.9,50
+202,HCP-202,South,General Medicine,Rep-10,49,180,188,1,1,Grower,267.35,51.09,50
+214,HCP-214,South,General Medicine,Rep-10,78,93,187,1,1,Grower,19.23,66.79,50
+115,HCP-115,East,General Medicine,Rep-07,94,133,183,1,1,Grower,41.49,57.91,50
+107,HCP-107,East,Endocrinology,Rep-11,44,67,175,1,1,Grower,52.27,72.31,50
+134,HCP-134,South,Endocrinology,Rep-02,105,152,174,1,1,Grower,44.76,53.37,50
+229,HCP-229,North,General Medicine,Rep-01,0,131,169,1,1,New Starter,,56.33,50
+91,HCP-091,East,General Medicine,Rep-07,0,77,161,1,1,New Starter,,67.65,50
+26,HCP-026,South,Endocrinology,Rep-02,0,26,138,1,1,New Starter,,84.15,50
+37,HCP-037,North,General Medicine,Rep-01,253,250,245,1,1,Decliner / Stable,-1.19,49.49,45
+157,HCP-157,North,General Medicine,Rep-01,254,227,162,1,1,Decliner / Stable,-10.63,41.65,45
+226,HCP-226,South,General Medicine,Rep-10,192,170,160,1,1,Decliner / Stable,-11.46,48.48,45
+17,HCP-017,North,Endocrinology,Rep-05,214,179,154,1,1,Decliner / Stable,-16.36,46.25,45
+1,HCP-001,North,General Medicine,Rep-01,238,153,131,1,1,Decliner / Stable,-35.71,46.13,45
+145,HCP-145,North,General Medicine,Rep-01,167,134,114,1,1,Decliner / Stable,-19.76,45.97,45
+199,HCP-199,East,General Medicine,Rep-07,109,106,101,1,1,Decliner / Stable,-2.75,48.79,45
+32,HCP-032,West,Endocrinology,Rep-08,235,388,309,1,0,Grower,65.11,44.33,35
+15,HCP-015,East,Cardiology,Rep-03,258,300,268,0,0,Grower,16.28,47.18,35
+184,HCP-184,West,General Medicine,Rep-04,211,267,264,1,0,Grower,26.54,49.72,35
+48,HCP-048,West,Cardiology,Rep-12,207,302,256,0,0,Grower,45.89,45.88,35
+116,HCP-116,West,Endocrinology,Rep-08,220,243,238,1,0,Grower,10.45,49.48,35
+152,HCP-152,West,Endocrinology,Rep-08,156,319,218,1,0,Grower,104.49,40.6,35
+129,HCP-129,North,Cardiology,Rep-09,267,425,211,0,0,Grower,59.18,33.18,35
+123,HCP-123,East,Cardiology,Rep-03,123,272,198,0,0,Grower,121.14,42.13,35
+240,HCP-240,West,Cardiology,Rep-12,99,220,196,0,0,Grower,122.22,47.12,35
+60,HCP-060,West,Cardiology,Rep-12,258,347,195,0,0,Grower,34.5,35.98,35
+56,HCP-056,West,Endocrinology,Rep-08,209,364,194,1,0,Grower,74.16,34.77,35
+168,HCP-168,West,Cardiology,Rep-12,199,301,191,0,0,Grower,51.26,38.82,35
+114,HCP-114,South,Cardiology,Rep-06,48,211,190,0,0,Grower,339.58,47.38,35
+188,HCP-188,West,Endocrinology,Rep-08,147,181,180,1,0,Grower,23.13,49.86,35
+105,HCP-105,North,Cardiology,Rep-09,175,193,172,0,0,Grower,10.29,47.12,35
+210,HCP-210,South,Cardiology,Rep-06,143,297,171,0,0,Grower,107.69,36.54,35
+120,HCP-120,West,Cardiology,Rep-12,221,326,166,0,0,Grower,47.51,33.74,35
+222,HCP-222,South,Cardiology,Rep-06,236,273,165,0,0,Grower,15.68,37.67,35
+30,HCP-030,South,Cardiology,Rep-06,163,241,164,0,0,Grower,47.85,40.49,35
+189,HCP-189,North,Cardiology,Rep-09,46,199,163,0,0,Grower,332.61,45.03,35
+68,HCP-068,West,Endocrinology,Rep-08,155,194,161,1,0,Grower,25.16,45.35,35
+144,HCP-144,West,Cardiology,Rep-12,128,247,157,0,0,Grower,92.97,38.86,35
+234,HCP-234,South,Cardiology,Rep-06,0,175,155,0,0,New Starter,,46.97,35
+186,HCP-186,South,Cardiology,Rep-06,173,298,153,0,0,Grower,72.25,33.92,35
+36,HCP-036,West,Cardiology,Rep-12,144,236,152,0,0,Grower,63.89,39.18,35
+224,HCP-224,West,Endocrinology,Rep-08,88,152,150,1,0,Grower,72.73,49.67,35
+135,HCP-135,East,Cardiology,Rep-03,233,298,149,0,0,Grower,27.9,33.33,35
+147,HCP-147,East,Cardiology,Rep-03,137,172,147,0,0,Grower,25.55,46.08,35
+172,HCP-172,West,General Medicine,Rep-04,214,350,147,1,0,Grower,63.55,29.58,35
+216,HCP-216,West,Cardiology,Rep-12,259,266,146,0,0,Grower,2.7,35.44,35
+153,HCP-153,North,Cardiology,Rep-09,48,209,141,0,0,Grower,335.42,40.29,35
+80,HCP-080,West,Endocrinology,Rep-08,132,204,137,1,0,Grower,54.55,40.18,35
+112,HCP-112,West,General Medicine,Rep-04,173,287,135,1,0,Grower,65.9,31.99,35
+81,HCP-081,North,Cardiology,Rep-09,123,271,133,0,0,Grower,120.33,32.92,35
+57,HCP-057,North,Cardiology,Rep-09,176,263,125,0,0,Grower,49.43,32.22,35
+140,HCP-140,West,Endocrinology,Rep-08,181,280,120,1,0,Grower,54.7,30.0,35
+20,HCP-020,West,Endocrinology,Rep-08,77,140,115,1,0,Grower,81.82,45.1,35
+183,HCP-183,East,Cardiology,Rep-03,199,325,113,0,0,Grower,63.32,25.8,35
+21,HCP-021,North,Cardiology,Rep-09,246,324,112,0,0,Grower,31.71,25.69,35
+126,HCP-126,South,Cardiology,Rep-06,230,370,108,0,0,Grower,60.87,22.59,35
+64,HCP-064,West,General Medicine,Rep-04,108,156,104,1,0,Grower,44.44,40.0,35
+136,HCP-136,West,General Medicine,Rep-04,49,97,97,1,0,Grower,97.96,50.0,35
+69,HCP-069,North,Cardiology,Rep-09,235,322,94,0,0,Grower,37.02,22.6,35
+16,HCP-016,West,General Medicine,Rep-04,257,373,69,1,0,Grower,45.14,15.61,35
+22,HCP-022,South,General Medicine,Rep-10,0,0,170,1,1,Non-Responder,,100.0,30
+58,HCP-058,South,General Medicine,Rep-10,223,365,281,1,1,Grower,63.68,43.5,20
+47,HCP-047,East,Endocrinology,Rep-11,216,360,274,1,1,Grower,66.67,43.22,20
+139,HCP-139,East,General Medicine,Rep-07,246,362,261,1,1,Grower,47.15,41.89,20
+83,HCP-083,East,Endocrinology,Rep-11,240,366,258,1,1,Grower,52.5,41.35,20
+197,HCP-197,North,Endocrinology,Rep-05,233,358,246,1,1,Grower,53.65,40.73,20
+10,HCP-010,South,General Medicine,Rep-10,186,246,242,1,1,Grower,32.26,49.59,20
+185,HCP-185,North,Endocrinology,Rep-05,225,276,226,1,1,Grower,22.67,45.02,20
+178,HCP-178,South,General Medicine,Rep-10,187,235,204,1,1,Grower,25.67,46.47,20
+227,HCP-227,East,Endocrinology,Rep-11,123,240,196,1,1,Grower,95.12,44.95,20
+238,HCP-238,South,General Medicine,Rep-10,226,350,196,1,1,Grower,54.87,35.9,20
+70,HCP-070,South,General Medicine,Rep-10,114,219,189,1,1,Grower,92.11,46.32,20
+59,HCP-059,East,Endocrinology,Rep-11,92,220,185,1,1,Grower,139.13,45.68,20
+211,HCP-211,East,General Medicine,Rep-07,237,333,185,1,1,Grower,40.51,35.71,20
+101,HCP-101,North,Endocrinology,Rep-05,156,227,180,1,1,Grower,45.51,44.23,20
+170,HCP-170,South,Endocrinology,Rep-02,187,256,177,1,1,Grower,36.9,40.88,20
+215,HCP-215,East,Endocrinology,Rep-11,227,398,174,1,1,Grower,75.33,30.42,20
+113,HCP-113,North,Endocrinology,Rep-05,260,375,166,1,1,Grower,44.23,30.68,20
+79,HCP-079,East,General Medicine,Rep-07,159,162,161,1,1,Grower,1.89,49.85,20
+19,HCP-019,East,General Medicine,Rep-07,158,185,160,1,1,Grower,17.09,46.38,20
+38,HCP-038,South,Endocrinology,Rep-02,113,188,159,1,1,Grower,66.37,45.82,20
+46,HCP-046,South,General Medicine,Rep-10,59,193,158,1,1,Grower,227.12,45.01,20
+5,HCP-005,North,Endocrinology,Rep-05,108,214,150,1,1,Grower,98.15,41.21,20
+143,HCP-143,East,Endocrinology,Rep-11,0,163,150,1,1,New Starter,,47.92,20
+190,HCP-190,South,General Medicine,Rep-10,168,168,146,1,1,Decliner / Stable,0.0,46.5,20
+161,HCP-161,North,Endocrinology,Rep-05,188,241,143,1,1,Grower,28.19,37.24,20
+163,HCP-163,East,General Medicine,Rep-07,143,211,131,1,1,Grower,47.55,38.3,20
+118,HCP-118,South,General Medicine,Rep-10,125,291,128,1,1,Grower,132.8,30.55,20
+205,HCP-205,North,General Medicine,Rep-01,195,328,120,1,1,Grower,68.21,26.79,20
+223,HCP-223,East,General Medicine,Rep-07,92,205,119,1,1,Grower,122.83,36.73,20
+239,HCP-239,East,Endocrinology,Rep-11,110,197,119,1,1,Grower,79.09,37.66,20
+122,HCP-122,South,Endocrinology,Rep-02,176,268,114,1,1,Grower,52.27,29.84,20
+13,HCP-013,North,General Medicine,Rep-01,0,112,106,1,1,New Starter,,48.62,20
+217,HCP-217,North,General Medicine,Rep-01,114,158,105,1,1,Grower,38.6,39.92,20
+191,HCP-191,East,Endocrinology,Rep-11,24,132,103,1,1,Grower,450.0,43.83,20
+95,HCP-095,East,Endocrinology,Rep-11,110,232,91,1,1,Grower,110.91,28.17,20
+109,HCP-109,North,General Medicine,Rep-01,215,371,91,1,1,Grower,72.56,19.7,20
+49,HCP-049,North,General Medicine,Rep-01,67,106,80,1,1,Grower,58.21,43.01,20
+133,HCP-133,North,General Medicine,Rep-01,187,198,64,1,1,Grower,5.88,24.43,20
+67,HCP-067,East,General Medicine,Rep-07,31,193,61,1,1,Grower,522.58,24.02,20
